@@ -4,3 +4,4 @@ https://wwm.lanzouw.com/b01rycyti
 https://neodev.team/lite_hosts (https://github.com/neodevpro/neodevhost)
 https://hblock.molinero.dev/hosts (https://github.com/hectorm/hblock)
 https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all
+https://raw.githubusercontent.com/smed79/easylist-hosts/main/easylist-hosts
