@@ -8,6 +8,9 @@
 127.0.0.1 in.appcenter.ms  #好像是一些APP的更新，可能会影响另外一些APP的功能。都应用广泛的样子。
 127.0.0.1 img.alicdn.com  #youku,优酷海外版开屏广告，应该会误杀大量阿里系图片。
 
+#谷歌翻译
+203.208.40.66 translate.google.com
+203.208.40.66 translate.googleapis.com
 #番茄免费小说
 127.0.0.1 v5-novelapp.fqnovelvod.com
 127.0.0.1 media-show.zxzt123.com
